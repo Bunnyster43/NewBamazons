@@ -2,6 +2,8 @@
 
 # Node.js & MySQL
 
+<a href="https://imgflip.com/gif/2clw4b"><img src="https://i.imgflip.com/2clw4b.gif" title="made at imgflip.com"/></a>
+
 ## Overview
 
 In this activity, you'll be creating an Amazon-like storefront with the MySQL skills you learned this week. The app will take in orders from customers and deplete stock from the store's inventory. As a bonus task, you can program your app to track product sales across your store's departments and then provide a summary of the highest-grossing departments in the store.
@@ -42,5 +44,3 @@ In this activity, you'll be creating an Amazon-like storefront with the MySQL sk
 8. However, if your store _does_ have enough of the product, you should fulfill the customer's order.
 * This means updating the SQL database to reflect the remaining quantity.
 * Once the update goes through, show the customer the total cost of their purchase.
-
-<a href="https://imgflip.com/gif/2clw4b"><img src="https://i.imgflip.com/2clw4b.gif" title="made at imgflip.com"/></a>
