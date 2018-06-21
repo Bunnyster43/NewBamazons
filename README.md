@@ -2,7 +2,7 @@
 
 # Node.js & MySQL
 
-<iframe src="https://giphy.com/embed/3d9ow2TCmdhKqkY45f" width="480" height="124" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/3d9ow2TCmdhKqkY45f">via GIPHY</a></p>
+<a href="https://imgflip.com/gif/2clw4b"><img src="https://i.imgflip.com/2clw4b.gif" title="made at imgflip.com"/></a>
 
 ## Overview
 
