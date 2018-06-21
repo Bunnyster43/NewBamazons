@@ -1,0 +1,25 @@
+{
+  "name": "NewBamazons",
+  "version": "1.0.0",
+  "description": "# Node.js & MySQL",
+  "main": "NewBamazonCustomer.js",
+  "dependencies": {
+    "inquirer": "^6.0.0",
+    "mysql": "^2.15.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bunnyster43/NewBamazons.git"
+  },
+  "keywords": [],
+  "author": "Isaac Simental-Starr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bunnyster43/NewBamazons/issues"
+  },
+  "homepage": "https://github.com/Bunnyster43/NewBamazons#readme"
+}
