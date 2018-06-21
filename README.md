@@ -42,3 +42,5 @@ In this activity, you'll be creating an Amazon-like storefront with the MySQL sk
 8. However, if your store _does_ have enough of the product, you should fulfill the customer's order.
 * This means updating the SQL database to reflect the remaining quantity.
 * Once the update goes through, show the customer the total cost of their purchase.
+
+<a href="https://imgflip.com/gif/2clvco"><img src="https://i.imgflip.com/2clvco.gif" title="made at imgflip.com"/></a>
