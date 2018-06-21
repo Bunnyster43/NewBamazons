@@ -43,4 +43,4 @@ In this activity, you'll be creating an Amazon-like storefront with the MySQL sk
 * This means updating the SQL database to reflect the remaining quantity.
 * Once the update goes through, show the customer the total cost of their purchase.
 
-<a href="https://imgflip.com/gif/2clvco"><img src="https://i.imgflip.com/2clvco.gif" title="made at imgflip.com"/></a>
+<iframe src="https://giphy.com/embed/3d9ow2TCmdhKqkY45f" width="480" height="124" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/3d9ow2TCmdhKqkY45f">via GIPHY</a></p>
