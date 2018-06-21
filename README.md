@@ -2,7 +2,7 @@
 
 # Node.js & MySQL
 
-<a href="https://imgflip.com/gif/2clw4b"><img src="https://i.imgflip.com/2clw4b.gif" title="made at imgflip.com"/></a>
+<a href="https://imgflip.com/gif/2clw4b" ><img src="https://i.imgflip.com/2clw4b.gif" title="made at imgflip.com"/></a>
 
 ## Overview
 
